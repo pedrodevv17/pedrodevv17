@@ -1,16 +1,78 @@
-## Hi there 👋
+# Pedro Costa Barroso
 
-<!--
-**pedrodevv17/pedrodevv17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+Olá! Sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Vila Velha (UVV) e Técnico em Desenvolvimento de Sistemas pelo SENAC Vitória.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho interesse em desenvolvimento de software, banco de dados e criação de soluções utilizando tecnologia para resolver problemas reais.
+
+Atualmente estou aprimorando meus conhecimentos em programação e desenvolvendo projetos práticos utilizando Python, C#, HTML, CSS e SQL.
+
+---
+
+## 🚀 Tecnologias
+
+### Linguagens
+
+* Python
+* C#
+
+### Desenvolvimento Web
+
+* HTML
+* CSS
+
+### Banco de Dados
+
+* MySQL
+* SQLite
+
+### Ferramentas
+
+* Git
+* GitHub
+* Visual Studio Code
+
+---
+
+## 📚 Atualmente estudando
+
+* Desenvolvimento de sistemas
+* Programação Orientada a Objetos
+* Banco de Dados
+* APIs
+* Desenvolvimento Web
+* Boas práticas de programação
+
+---
+
+## 📌 Projetos
+
+### 🔧 Help Desk TI
+
+Sistema de gerenciamento de chamados desenvolvido para simular uma solução utilizada por equipes de suporte técnico.
+
+Tecnologias:
+
+* Python
+* SQLite
+* Git
+
+Status:
+🚧 Em desenvolvimento
+
+---
+
+## 🎯 Objetivo profissional
+
+Busco uma oportunidade de estágio em TI para aplicar meus conhecimentos, desenvolver experiência prática e evoluir profissionalmente na área de tecnologia.
+
+---
+
+## 📫 Contato
+
+LinkedIn:
+[Pedro Costa Barroso](https://www.linkedin.com/in/pedro-costa-barroso-56042839a/)
+
+GitHub:
+https://github.com/pedrodevv17
