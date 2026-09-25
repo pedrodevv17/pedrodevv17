@@ -16,6 +16,8 @@ Atualmente estou aprimorando meus conhecimentos em programação e desenvolvendo
 
 * Python
 * C#
+* PHP
+* Js
 
 ### Desenvolvimento Web
 
@@ -25,7 +27,6 @@ Atualmente estou aprimorando meus conhecimentos em programação e desenvolvendo
 ### Banco de Dados
 
 * MySQL
-* SQLite
 
 ### Ferramentas
 
@@ -48,18 +49,6 @@ Atualmente estou aprimorando meus conhecimentos em programação e desenvolvendo
 
 ## 📌 Projetos
 
-### 🔧 Help Desk TI
-
-Sistema de gerenciamento de chamados desenvolvido para simular uma solução utilizada por equipes de suporte técnico.
-
-Tecnologias:
-
-* Python
-* SQLite
-* Git
-
-Status:
-🚧 Em desenvolvimento
 
 ---
 
