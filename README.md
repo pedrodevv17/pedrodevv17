@@ -49,7 +49,7 @@ Atualmente estou aprimorando meus conhecimentos em programação e desenvolvendo
 
 ## 📌 Projetos
 
-- [Painel de Preços de Combustíveis](https://github.com/pedrodevv17/painel-combustiveis-vila-velha) — banco de dados relacional (MySQL, 3ª Forma Normal) e site de consulta de preços de combustíveis em Vila Velha/ES, com script Python de apoio. Projeto da disciplina de Arquitetura de Dados Relacionais I.
+- [Painel de Preços de Combustíveis](https://pedrodevv17.github.io/painel-combustiveis-vila-velha/) — banco de dados relacional (MySQL, 3ª Forma Normal) e site de consulta de preços de combustíveis em Vila Velha/ES, com script Python de apoio. Projeto da disciplina de Arquitetura de Dados Relacionais I.
   
 ---
 
