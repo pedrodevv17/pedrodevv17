@@ -27,6 +27,7 @@ Atualmente estou aprimorando meus conhecimentos em programação e desenvolvendo
 ### Banco de Dados
 
 * MySQL
+* SQlite
 
 ### Ferramentas
 
