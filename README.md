@@ -51,7 +51,8 @@ Atualmente estou aprimorando meus conhecimentos em programação e desenvolvendo
 ## 📌 Projetos
 
 - [Painel de Preços de Combustíveis](https://pedrodevv17.github.io/painel-combustiveis-vila-velha/) — banco de dados relacional (MySQL, 3ª Forma Normal) e site de consulta de preços de combustíveis em Vila Velha/ES, com script Python de apoio. Projeto da disciplina de Arquitetura de Dados Relacionais I.
-- - [TaskFlow API](https://github.com/pedrodevv17/-taskflow-api) — API REST de cadastro de tarefas em C# (.NET 8) com ASP.NET Core, Entity Framework Core e MySQL, documentada via Swagger. Projeto de portfólio focado em backend e persistência de dados.
+- [TaskFlow API](https://github.com/pedrodevv17/-taskflow-api) — API REST de cadastro de tarefas em C# (.NET 8) com ASP.NET Core, Entity Framework Core e MySQL, documentada via Swagger. Projeto de portfólio focado em backend e persistência de dados.
+- - [Painel de Câmbio](https://github.com/pedrodevv17/cambio-dashboard) — conversor de moedas e cotações em tempo real (Dólar, Euro, Libra e outras), consumindo a AwesomeAPI. Front-end em HTML, CSS e JavaScript puro, com Chart.js para os gráficos históricos.
   
 ---
 
